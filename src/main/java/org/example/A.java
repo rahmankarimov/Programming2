@@ -3,7 +3,7 @@ package org.example;
 public class A {
     public int someValue =5;
 
-    public String getText() { return "Some info"; }
+    public String getText() { return "Some information"; }
 }
 
 class B extends A {
